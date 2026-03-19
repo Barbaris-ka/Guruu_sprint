@@ -1,3 +1,7 @@
 fun main(){
-    println("hello World")
+    val number: Int
+    val string: String
+    val bool: Boolean
+    println("Сделано")
+
 }
