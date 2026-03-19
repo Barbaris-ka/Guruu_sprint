@@ -3,5 +3,6 @@ fun main(){
     val string: String
     val bool: Boolean
     println("Сделано")
+    println("hello Hauti")
 
 }
