@@ -1,3 +1,5 @@
+package lesson_1
+
 fun main(){
     val number: Int
     val string: String

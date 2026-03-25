@@ -1,3 +1,5 @@
+package lesson_1
+
 fun main() {
     val applePrice:Double = 35.99
     val applesAmount:Int =10
