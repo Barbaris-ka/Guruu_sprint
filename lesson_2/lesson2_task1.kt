@@ -2,7 +2,7 @@ package lesson_2
 
 fun main(){
     println("Введите возраст:")
-    val age:Int= readLine()!!.toInt()
+    val age:Int= readln().toInt()
 
 println("Совершенолетие достигнуто ${age>=AGE_OF_MAJORITY}")
 }
