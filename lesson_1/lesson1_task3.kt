@@ -1,3 +1,5 @@
+package lesson_1
+
 fun main(){
     val botName:String= "Oleg"
     val version:String ="1.23"
